@@ -1,0 +1,1067 @@
+<template>
+  <div class="page flex-col">
+    <div class="block_1 flex-col">
+      <div class="block_2 flex-col">
+        <div class="group_1 flex-col">
+          <div class="group_2 flex-row">
+            <div class="box_1 flex-row">
+              <img
+                class="image_1"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+              />
+              <img
+                class="image_2"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng28872d40f25354931624e58117c1ec334112fb5ec25ea5ae90f31357eddd7c3c.png"
+              />
+              <img
+                class="thumbnail_1"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+              />
+              <span class="text_1">传感器&nbsp;01</span>
+            </div>
+            <div class="box_2 flex-row">
+              <img
+                class="image_3"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+              />
+              <img
+                class="image_4"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng28872d40f25354931624e58117c1ec334112fb5ec25ea5ae90f31357eddd7c3c.png"
+              />
+              <img
+                class="thumbnail_2"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+              />
+              <span class="text_2">传感器&nbsp;02</span>
+            </div>
+            <div class="box_3 flex-row">
+              <img
+                class="image_5"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+              />
+              <img
+                class="image_6"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng28872d40f25354931624e58117c1ec334112fb5ec25ea5ae90f31357eddd7c3c.png"
+              />
+              <img
+                class="thumbnail_3"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+              />
+              <span class="text_3">传感器&nbsp;03</span>
+            </div>
+            <div class="box_4 flex-col justify-between">
+              <div class="image-wrapper_1 flex-col">
+                <img
+                  class="image_7"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngb067de5e90ad4dcf9e3eb3924c2974faf67245ac46fa9df53ae63d100595cc40.png"
+                />
+              </div>
+              <div class="group_3 flex-row">
+                <img
+                  class="image_8"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng4faddca8378c317c482c21ddee8e1792115eea1e3132f279094e98b16165ad80.png"
+                />
+                <img
+                  class="thumbnail_4"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng752faa49b05982c42c93599cd6a7eda186fe014688dcb7b69f66cf153693aba1.png"
+                />
+                <span class="text_4">传感器详细信息</span>
+              </div>
+            </div>
+          </div>
+          <div class="group_4 flex-row">
+            <img
+              class="image_9"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+            />
+            <img
+              class="image_10"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng84df14b6c7f7b7da64d62ea023a2e8a834d87fff59d3962bfe2710544f656e16.png"
+            />
+            <img
+              class="image_11"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+            />
+            <img
+              class="image_12"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngfbf3cb4699ee48b6ada2cedc11b30a0f64d3bda6ce92edb5ec62b468f3876927.png"
+            />
+            <img
+              class="image_13"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+            />
+            <img
+              class="image_14"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngfbf3cb4699ee48b6ada2cedc11b30a0f64d3bda6ce92edb5ec62b468f3876927.png"
+            />
+            <div class="image-wrapper_2 flex-col">
+              <img
+                class="image_15"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPnga13e89814348587a537b217966f5bd5eed2d85fd6cdcb71ab49a3099dab631f5.png"
+              />
+            </div>
+            <img
+              class="thumbnail_5"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng6955e679732a222c0cfac729b235a9bc17653cb09c6bf5a2ab3f1f0c04a9993b.png"
+            />
+            <img
+              class="thumbnail_6"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng87b61af336bf4d2f2fec457b87dbe8505f544a36075dceff1ba59569a99b7444.png"
+            />
+            <img
+              class="thumbnail_7"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPnga695dba4e49c3c0faa2b7508829ae3490af5421109e5abe68fe2ef87b96c1a33.png"
+            />
+          </div>
+          <div class="group_5 flex-row">
+            <div class="section_1 flex-col">
+              <div class="box_5 flex-col">
+                <div class="text-wrapper_1 flex-row justify-between">
+                  <span class="text_5">电量</span>
+                  <span class="text_6">70</span>
+                </div>
+                <div class="group_6 flex-row justify-between">
+                  <span class="text_7">信号强度</span>
+                  <img
+                    class="image_16"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngaa96de67971f4771da7e8016c3b81da3a047b183bb2aa82a2842530dfb0cf3ee.png"
+                  />
+                </div>
+                <div class="group_7 flex-row justify-between">
+                  <span class="text_8">开关</span>
+                  <img
+                    class="image_17"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="group_8 flex-row justify-between">
+                  <span class="text_9">光纤开关</span>
+                  <img
+                    class="image_18"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="group_9 flex-row justify-between">
+                  <span class="text_10">WIFI开关</span>
+                  <img
+                    class="image_19"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng05e84e5262baec27f72b659fbb700441b06de2845fce34f260ceecc078cafd56.png"
+                  />
+                </div>
+              </div>
+              <div class="box_6 flex-row">
+                <img
+                  class="image_20"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+                />
+                <img
+                  class="image_21"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng28872d40f25354931624e58117c1ec334112fb5ec25ea5ae90f31357eddd7c3c.png"
+                />
+                <img
+                  class="thumbnail_8"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+                />
+                <span class="text_11">传感器&nbsp;04</span>
+              </div>
+              <div class="image-wrapper_3 flex-row justify-between">
+                <img
+                  class="image_22"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+                />
+                <img
+                  class="image_23"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng84df14b6c7f7b7da64d62ea023a2e8a834d87fff59d3962bfe2710544f656e16.png"
+                />
+              </div>
+              <div class="box_7 flex-col">
+                <div class="text-wrapper_2 flex-row justify-between">
+                  <span class="text_12">电量</span>
+                  <span class="text_13">70</span>
+                </div>
+                <div class="image-text_1 flex-row justify-between">
+                  <span class="text-group_1">信号强度</span>
+                  <img
+                    class="image_24"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngaa96de67971f4771da7e8016c3b81da3a047b183bb2aa82a2842530dfb0cf3ee.png"
+                  />
+                </div>
+                <div class="group_10 flex-row justify-between">
+                  <span class="text_14">开关</span>
+                  <img
+                    class="image_25"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_2 flex-row justify-between">
+                  <span class="text-group_2">光纤开关</span>
+                  <img
+                    class="image_26"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_3 flex-row justify-between">
+                  <span class="text-group_3">WIFI开关</span>
+                  <img
+                    class="image_27"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng05e84e5262baec27f72b659fbb700441b06de2845fce34f260ceecc078cafd56.png"
+                  />
+                </div>
+              </div>
+              <div class="box_8 flex-row">
+                <img
+                  class="image_28"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+                />
+                <img
+                  class="image_29"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng28872d40f25354931624e58117c1ec334112fb5ec25ea5ae90f31357eddd7c3c.png"
+                />
+                <img
+                  class="thumbnail_9"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+                />
+                <span class="text_15">传感器&nbsp;07</span>
+              </div>
+              <div class="image-wrapper_4 flex-row justify-between">
+                <img
+                  class="image_30"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+                />
+                <img
+                  class="image_31"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng84df14b6c7f7b7da64d62ea023a2e8a834d87fff59d3962bfe2710544f656e16.png"
+                />
+              </div>
+              <div class="box_9 flex-col">
+                <div class="text-wrapper_3 flex-row justify-between">
+                  <span class="text_16">电量</span>
+                  <span class="text_17">70</span>
+                </div>
+                <div class="image-text_4 flex-row justify-between">
+                  <span class="text-group_4">信号强度</span>
+                  <img
+                    class="image_32"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngaa96de67971f4771da7e8016c3b81da3a047b183bb2aa82a2842530dfb0cf3ee.png"
+                  />
+                </div>
+                <div class="group_11 flex-row justify-between">
+                  <span class="text_18">开关</span>
+                  <img
+                    class="image_33"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_5 flex-row justify-between">
+                  <span class="text-group_5">光纤开关</span>
+                  <img
+                    class="image_34"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_6 flex-row justify-between">
+                  <span class="text-group_6">WIFI开关</span>
+                  <img
+                    class="image_35"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng05e84e5262baec27f72b659fbb700441b06de2845fce34f260ceecc078cafd56.png"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="section_2 flex-col">
+              <div class="box_10 flex-col">
+                <div class="text-wrapper_4 flex-row justify-between">
+                  <span class="text_19">电量</span>
+                  <span class="text_20">70</span>
+                </div>
+                <div class="section_3 flex-row justify-between">
+                  <span class="text_21">信号强度</span>
+                  <img
+                    class="image_36"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngaa96de67971f4771da7e8016c3b81da3a047b183bb2aa82a2842530dfb0cf3ee.png"
+                  />
+                </div>
+                <div class="section_4 flex-row justify-between">
+                  <span class="text_22">开关</span>
+                  <img
+                    class="image_37"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="section_5 flex-row justify-between">
+                  <span class="text_23">光纤开关</span>
+                  <img
+                    class="image_38"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="section_6 flex-row justify-between">
+                  <span class="text_24">WIFI开关</span>
+                  <img
+                    class="image_39"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng05e84e5262baec27f72b659fbb700441b06de2845fce34f260ceecc078cafd56.png"
+                  />
+                </div>
+              </div>
+              <div class="box_11 flex-row">
+                <img
+                  class="image_40"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+                />
+                <img
+                  class="image_41"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng2d9aa7b40f24ffe7d87f5b2389ebe2bb00dfad37e13192b6e89ef74d3640f001.png"
+                />
+                <img
+                  class="thumbnail_10"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+                />
+                <span class="text_25">传感器&nbsp;05</span>
+              </div>
+              <div class="image-wrapper_5 flex-row justify-between">
+                <img
+                  class="image_42"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+                />
+                <img
+                  class="image_43"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngfbf3cb4699ee48b6ada2cedc11b30a0f64d3bda6ce92edb5ec62b468f3876927.png"
+                />
+              </div>
+              <div class="box_12 flex-row">
+                <div class="image-text_7 flex-col justify-between">
+                  <img
+                    class="image_44"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdea31f01c921f6c82e41585faab5dbf557c58003da121bc7873a50c1eb33e2e6.png"
+                  />
+                  <span class="text-group_7">出现异常！</span>
+                </div>
+              </div>
+              <div class="box_13 flex-row">
+                <img
+                  class="image_45"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+                />
+                <img
+                  class="image_46"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng28872d40f25354931624e58117c1ec334112fb5ec25ea5ae90f31357eddd7c3c.png"
+                />
+                <img
+                  class="thumbnail_11"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+                />
+                <span class="text_26">传感器&nbsp;08</span>
+              </div>
+              <div class="image-wrapper_6 flex-row justify-between">
+                <img
+                  class="image_47"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+                />
+                <img
+                  class="image_48"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngfbf3cb4699ee48b6ada2cedc11b30a0f64d3bda6ce92edb5ec62b468f3876927.png"
+                />
+              </div>
+              <div class="box_14 flex-col">
+                <div class="text-wrapper_5 flex-row justify-between">
+                  <span class="text_27">电量</span>
+                  <span class="text_28">70</span>
+                </div>
+                <div class="image-text_8 flex-row justify-between">
+                  <span class="text-group_8">信号强度</span>
+                  <img
+                    class="image_49"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngaa96de67971f4771da7e8016c3b81da3a047b183bb2aa82a2842530dfb0cf3ee.png"
+                  />
+                </div>
+                <div class="group_12 flex-row justify-between">
+                  <span class="text_29">开关</span>
+                  <img
+                    class="image_50"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_9 flex-row justify-between">
+                  <span class="text-group_9">光纤开关</span>
+                  <img
+                    class="image_51"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_10 flex-row justify-between">
+                  <span class="text-group_10">WIFI开关</span>
+                  <img
+                    class="image_52"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng05e84e5262baec27f72b659fbb700441b06de2845fce34f260ceecc078cafd56.png"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="section_7 flex-col">
+              <div class="section_8 flex-col">
+                <div class="text-wrapper_6 flex-row justify-between">
+                  <span class="text_30">电量</span>
+                  <span class="text_31">70</span>
+                </div>
+                <div class="block_3 flex-row justify-between">
+                  <span class="text_32">信号强度</span>
+                  <img
+                    class="image_53"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngaa96de67971f4771da7e8016c3b81da3a047b183bb2aa82a2842530dfb0cf3ee.png"
+                  />
+                </div>
+                <div class="block_4 flex-row justify-between">
+                  <span class="text_33">开关</span>
+                  <img
+                    class="image_54"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="block_5 flex-row justify-between">
+                  <span class="text_34">光纤开关</span>
+                  <img
+                    class="image_55"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="block_6 flex-row justify-between">
+                  <span class="text_35">WIFI开关</span>
+                  <img
+                    class="image_56"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng05e84e5262baec27f72b659fbb700441b06de2845fce34f260ceecc078cafd56.png"
+                  />
+                </div>
+              </div>
+              <div class="section_9 flex-row">
+                <img
+                  class="image_57"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng4b0b96ad5efedc0846bc65e97428790ab92794a7817ac51c0074cfb8ea4aad9c.png"
+                />
+                <img
+                  class="image_58"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng28872d40f25354931624e58117c1ec334112fb5ec25ea5ae90f31357eddd7c3c.png"
+                />
+                <img
+                  class="thumbnail_12"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng5b84bc7480ddb4d2955c0d00c296692274a0ce550004da74d07355c0a68b1970.png"
+                />
+                <span class="text_36">传感器&nbsp;06</span>
+              </div>
+              <div class="image-wrapper_7 flex-row justify-between">
+                <img
+                  class="image_59"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngdcd9cf816f2fc253315a42a7baaf1a027d34eff5674eb8eeaa17fd6df8e34d69.png"
+                />
+                <img
+                  class="image_60"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngfbf3cb4699ee48b6ada2cedc11b30a0f64d3bda6ce92edb5ec62b468f3876927.png"
+                />
+              </div>
+              <div class="section_10 flex-col">
+                <div class="text-wrapper_7 flex-row justify-between">
+                  <span class="text_37">电量</span>
+                  <span class="text_38">70</span>
+                </div>
+                <div class="image-text_11 flex-row justify-between">
+                  <span class="text-group_11">信号强度</span>
+                  <img
+                    class="image_61"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngaa96de67971f4771da7e8016c3b81da3a047b183bb2aa82a2842530dfb0cf3ee.png"
+                  />
+                </div>
+                <div class="section_11 flex-row justify-between">
+                  <span class="text_39">开关</span>
+                  <img
+                    class="image_62"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_12 flex-row justify-between">
+                  <span class="text-group_12">光纤开关</span>
+                  <img
+                    class="image_63"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngdd0cd68db5fd8fc34c80fbcaf429881df099667b9292232a8eee75cef13acf88.png"
+                  />
+                </div>
+                <div class="image-text_13 flex-row justify-between">
+                  <span class="text-group_13">WIFI开关</span>
+                  <img
+                    class="image_64"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng05e84e5262baec27f72b659fbb700441b06de2845fce34f260ceecc078cafd56.png"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="section_12 flex-col">
+              <img
+                class="image_65"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPngbfc503ef7cc48358e5ad5f21fda734a1943f73ae83c8b0e391f0b6e05ef88294.png"
+              />
+              <div class="section_13 flex-col">
+                <img
+                  class="image_66"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng434c42299dddbccff2dab064cdbb15c7a35eaa805027e3b922cfa0055c66015e.png"
+                />
+                <div class="block_7 flex-col align-center">
+                  <div class="image-wrapper_8 flex-col align-center">
+                    <img
+                      class="image_67"
+                      referrerpolicy="no-referrer"
+                      src="./assets/img/SketchPng922875503d9f9741f0013cb7f77d67b98d7b02ad0aaaf0b2bc797026fcf7e81d.png"
+                    />
+                  </div>
+                </div>
+                <div class="image-wrapper_9 flex-col align-center">
+                  <img
+                    class="image_68"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng14d949f96fd2ba1efb6929ee35aa96d4254047a034562e377f2fd1ebc3683442.png"
+                  />
+                </div>
+              </div>
+              <img
+                class="image_69"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng6b1c3efc7f230e0c6052deee32095ab6871483246d62e8764b3a5f77596db5e9.png"
+              />
+              <div class="section_14 flex-col">
+                <div class="text-wrapper_8 flex-row justify-between">
+                  <span class="text_40">IP地址</span>
+                  <span class="text_41">172.168.0.1</span>
+                </div>
+                <div class="text-wrapper_9 flex-row justify-between">
+                  <span class="text_42">MAC地址</span>
+                  <span class="text_43">172.168.3.4</span>
+                </div>
+                <div class="block_8 flex-row justify-between">
+                  <span class="text_44">信号强度</span>
+                  <img
+                    class="image_70"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng4464910c64c4d6886d52ede411ee2627888e240aceeb7d477b6d1bb0146a51de.png"
+                  />
+                </div>
+              </div>
+              <div class="section_15 flex-row">
+                <img
+                  class="image_71"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng5c269492e6932ed8395c3ccd0304208111e85004e3ea19a9d9bf3dba8a6e355e.png"
+                />
+                <img
+                  class="image_72"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng301503913ebdbdc42eaf318ef72a55ae8e69b0a73f0bad2fec88f72c9f044d55.png"
+                />
+                <div class="section_16 flex-col align-center">
+                  <div class="image-wrapper_10 flex-col align-center">
+                    <img
+                      class="image_73"
+                      referrerpolicy="no-referrer"
+                      src="./assets/img/SketchPng80c7f68905c19ed4d51dfc0f025bd44e4222a89ec5c19b01e715aec23f4855cd.png"
+                    />
+                  </div>
+                </div>
+                <div class="image-wrapper_11 flex-col align-center">
+                  <img
+                    class="image_74"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngf9b15b12133a6049e9948f278a10c2e4b79b4c119c2d767f463dd7c30c2ffa6a.png"
+                  />
+                </div>
+              </div>
+              <img
+                class="image_75"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPngc4e299afa195a6321e9a8160c3e1ff2d50ea97927c4d1516e8c32955b5515de0.png"
+              />
+              <div class="section_17 flex-col">
+                <div class="text-wrapper_10 flex-row justify-between">
+                  <span class="text_45">电量</span>
+                  <span class="text_46">70</span>
+                </div>
+                <div class="group_13 flex-row">
+                  <div class="image-text_14 flex-row justify-between">
+                    <span class="text-group_14">声音</span>
+                    <img
+                      class="thumbnail_13"
+                      referrerpolicy="no-referrer"
+                      src="./assets/img/SketchPng3c62d586b2989fc2f9b54bd302d98449aa7b5de62d5d84f6af2fb7df86c53beb.png"
+                    />
+                  </div>
+                </div>
+                <div class="group_14 flex-row justify-between">
+                  <span class="text_47">开关</span>
+                  <img
+                    class="image_76"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng172bfeb456bb3fad5648576e69623029b7607dbb2fdc7a3bd9b731f66c0d0c8e.png"
+                  />
+                </div>
+                <div class="group_15 flex-row justify-between">
+                  <div class="image-text_15 flex-row justify-between">
+                    <span class="text-group_15">光纤开关</span>
+                    <img
+                      class="image_77"
+                      referrerpolicy="no-referrer"
+                      src="./assets/img/SketchPng172bfeb456bb3fad5648576e69623029b7607dbb2fdc7a3bd9b731f66c0d0c8e.png"
+                    />
+                  </div>
+                  <div class="image-text_16 flex-row justify-between">
+                    <span class="text-group_16">WIFI开关</span>
+                    <img
+                      class="image_78"
+                      referrerpolicy="no-referrer"
+                      src="./assets/img/SketchPngd313abfd9221ea859c1cecf5af96e0c15cb99c00d1e6680cfde3effcb8827384.png"
+                    />
+                  </div>
+                </div>
+              </div>
+              <img
+                class="image_79"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPngbfc503ef7cc48358e5ad5f21fda734a1943f73ae83c8b0e391f0b6e05ef88294.png"
+              />
+              <div class="section_18 flex-col">
+                <img
+                  class="image_80"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng8ed641eed56180db18cca67c7597acd14636d826f82e1dfd9a9f9bbc355e8526.png"
+                />
+                <div class="group_16 flex-col align-center">
+                  <div class="image-wrapper_12 flex-col align-center">
+                    <img
+                      class="image_81"
+                      referrerpolicy="no-referrer"
+                      src="./assets/img/SketchPng24d2375c45c71ceff8750c6f3cab2e319a668d4c7f8b34ae6d1d461b9b482e3e.png"
+                    />
+                  </div>
+                </div>
+                <div class="image-wrapper_13 flex-col align-center">
+                  <img
+                    class="image_82"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPngfd983ca5f9eeb62e271c0d328b7aca8420efe654fab5deda3872640a5f7babb2.png"
+                  />
+                </div>
+              </div>
+              <img
+                class="image_83"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng9a8929567eb62cc9556b6eee3c59563883e2efbcbbf345af2702ac32b64a1a2d.png"
+              />
+              <div class="section_19 flex-row">
+                <div class="text-group_17 flex-col justify-between">
+                  <span class="text_48">设备序列号</span>
+                  <span class="text_49">软件版本号</span>
+                  <span class="text_50">硬件版本号</span>
+                </div>
+                <div class="text-group_18 flex-col justify-between">
+                  <span class="text_51">APTX&nbsp;69391</span>
+                  <span class="text_52">V1.0.1</span>
+                  <span class="text_53">Matrix001.372</span>
+                </div>
+              </div>
+              <img
+                class="image_84"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPngbfc503ef7cc48358e5ad5f21fda734a1943f73ae83c8b0e391f0b6e05ef88294.png"
+              />
+              <div class="section_20 flex-row">
+                <img
+                  class="image_85"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPnga3bbb6b6b9326958405ae5ed72e6fb403f16342f08ea12cd3259180b9660df8a.png"
+                />
+                <img
+                  class="image_86"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng6e996335284fcdcc2df346f793c5ac53b822fe7a96db626547b80be05b3449c3.png"
+                />
+                <div class="box_15 flex-col align-center">
+                  <div class="image-wrapper_14 flex-col align-center">
+                    <img
+                      class="image_87"
+                      referrerpolicy="no-referrer"
+                      src="./assets/img/SketchPnga4c2d1bc451740f561cf05e73d957854093f70c1f13cc368d07de96a0b448dad.png"
+                    />
+                  </div>
+                </div>
+                <div class="image-wrapper_15 flex-col align-center">
+                  <img
+                    class="image_88"
+                    referrerpolicy="no-referrer"
+                    src="./assets/img/SketchPng685674814e5c35820db211a5ebe7f29a908e3eaf9dd41c69eca86e2131b8eb93.png"
+                  />
+                </div>
+              </div>
+              <div class="section_21 flex-row">
+                <div class="text-group_19 flex-col justify-between">
+                  <span class="text_54">数据源</span>
+                  <span class="text_55">数据内容</span>
+                </div>
+                <div class="text-group_20 flex-col justify-between">
+                  <span class="text_56">wikipedia</span>
+                  <span class="text_57">传感器&nbsp;05超过阈值！</span>
+                </div>
+              </div>
+              <span class="text_58">网络连接信息</span>
+              <span class="text_59">设备信息</span>
+              <span class="text_60">设备模组状态</span>
+              <span class="text_61">数据接收</span>
+            </div>
+          </div>
+          <img
+            class="image_89"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng48632b85a1e2abecc8eed801a3c9147cb64c9fd776f4294ee772256814bcfbc4.png"
+          />
+          <img
+            class="image_90"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng992aa8865bd0feb76dd0db938c8543560dd8ce22a59daf66ae16806227f5a57c.png"
+          />
+          <img
+            class="image_91"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng48632b85a1e2abecc8eed801a3c9147cb64c9fd776f4294ee772256814bcfbc4.png"
+          />
+          <img
+            class="image_92"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng992aa8865bd0feb76dd0db938c8543560dd8ce22a59daf66ae16806227f5a57c.png"
+          />
+          <img
+            class="image_93"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng48632b85a1e2abecc8eed801a3c9147cb64c9fd776f4294ee772256814bcfbc4.png"
+          />
+          <img
+            class="image_94"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng992aa8865bd0feb76dd0db938c8543560dd8ce22a59daf66ae16806227f5a57c.png"
+          />
+          <img
+            class="image_95"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng48632b85a1e2abecc8eed801a3c9147cb64c9fd776f4294ee772256814bcfbc4.png"
+          />
+          <img
+            class="image_96"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng992aa8865bd0feb76dd0db938c8543560dd8ce22a59daf66ae16806227f5a57c.png"
+          />
+          <img
+            class="image_97"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPngbb9b3ca757523ac13e7ea50ca201e8d108f604846617446f844ea6d9cfbfb1d3.png"
+          />
+          <img
+            class="image_98"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng0d64944a44548689f3fa126b5a22177d00985a3ec0b8dc335b48af71a2af8de0.png"
+          />
+          <img
+            class="image_99"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng48632b85a1e2abecc8eed801a3c9147cb64c9fd776f4294ee772256814bcfbc4.png"
+          />
+          <img
+            class="image_100"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng992aa8865bd0feb76dd0db938c8543560dd8ce22a59daf66ae16806227f5a57c.png"
+          />
+          <img
+            class="image_101"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng48632b85a1e2abecc8eed801a3c9147cb64c9fd776f4294ee772256814bcfbc4.png"
+          />
+          <img
+            class="image_102"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng992aa8865bd0feb76dd0db938c8543560dd8ce22a59daf66ae16806227f5a57c.png"
+          />
+          <img
+            class="image_103"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng48632b85a1e2abecc8eed801a3c9147cb64c9fd776f4294ee772256814bcfbc4.png"
+          />
+          <img
+            class="image_104"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng992aa8865bd0feb76dd0db938c8543560dd8ce22a59daf66ae16806227f5a57c.png"
+          />
+        </div>
+        <div class="group_17 flex-row">
+          <div class="text-wrapper_11 flex-col"><span class="text_62">可靠通信</span></div>
+          <div class="group_18 flex-col">
+            <div class="image-wrapper_16 flex-row">
+              <img
+                class="image_105"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng92eae6b1f34fd39f2f94bc16219701ff2310674b9e862b049ce9fc1975d4c980.png"
+              />
+            </div>
+            <div class="section_22 flex-row justify-between">
+              <div class="image-wrapper_17 flex-col justify-center">
+                <img
+                  class="image_106"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngf2d13aacef19a85ebbeb184742be72ba4889a8567c01a08bec4ca38acbb12bbb.png"
+                />
+              </div>
+              <div class="image-wrapper_18 flex-col">
+                <img
+                  class="image_107"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng475f794259a8840fd4ad463db7981943d4bf807b0a8bd8c3e02ac3b6c0dcbcfd.png"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="text-wrapper_12 flex-col"><span class="text_63">探测值守</span></div>
+          <div class="group_19 flex-col">
+            <div class="image-wrapper_19 flex-row">
+              <img
+                class="thumbnail_14"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPng9c2cf50a11f6da5e0f18d88a234ea65345cce7c01ac32a686dc0bb917c8ab503.png"
+              />
+            </div>
+            <div class="box_16 flex-row justify-between">
+              <span class="text_64">admin</span>
+              <div class="image-wrapper_20 flex-col justify-between">
+                <img
+                  class="thumbnail_15"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPng8408424108c5721e0700540888a2ae86738b36180d83e9d462b4bad7cdb9b6fe.png"
+                />
+                <img
+                  class="thumbnail_16"
+                  referrerpolicy="no-referrer"
+                  src="./assets/img/SketchPngc527d7ebef50cd645f70030dfbbdb265d17d0e89d177d21b305e20430cc324a6.png"
+                />
+              </div>
+            </div>
+          </div>
+          <img
+            class="image_108"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPnge113fa263a8eb1b4b3fc0aa11b88c11f48e78bba07d05262557b9f25d49accc9.png"
+          />
+          <img
+            class="image_109"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng85b9a1f0a8f01790cbd62a83215fdbec8d93ee89597c97734e9a5547c0882db4.png"
+          />
+          <div class="image-wrapper_21 flex-col align-center">
+            <img
+              class="image_110"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngd1112126d473cb78d92e5b8c6b970df6141166f9e3ead59b9db460bfb8690184.png"
+            />
+          </div>
+          <div class="group_20 flex-row">
+            <img
+              class="image_111"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngbf12ffca4210e7d9309ce28954560478f2df106ef45174559617bd956f3e7487.png"
+            />
+            <img
+              class="image_112"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng8f903d7c741100f9ebdb4f43e33f47dae4623e9c7e6e74e069b3d3a45a64cba1.png"
+            />
+            <img
+              class="image_113"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng0cbfd0ca4dbb326403337b1b10e1d4db82730e9899b5173a1c18e35f5e294213.png"
+            />
+            <img
+              class="thumbnail_17"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngff9f4962eca39c8f4bbc92d8a4bda213b96d7f9faf4eb4fb135f65e1f15003ad.png"
+            />
+            <img
+              class="image_114"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngcd406887a3c0fb388df5c85ee944d561d8b69c737a6314dc677c7c302ad9ece8.png"
+            />
+            <span class="text_65">多元信息综合处理与辅助决策平台</span>
+          </div>
+          <div class="group_21 flex-col">
+            <img
+              class="image_115"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPnga349694d398d2feb4b58f7f442f0e68cf5844d3dec9327eb9669046ff763c716.png"
+            />
+            <img
+              class="thumbnail_18"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng8bb40f8e39175d671f3beed9402628a3ddbaecd8192cfd81812f9c591b4fb0e9.png"
+            />
+            <img
+              class="thumbnail_19"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng40d2ced26d9793eb75e986d3698f2e1af795fd924b9116d6a1cc239d3c547080.png"
+            />
+            <img
+              class="thumbnail_20"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngcda0bf371a39751885e16da387fa1493578e56d16e2ee4d44ac926d5f1a125c2.png"
+            />
+            <div class="image-wrapper_22 flex-col align-center">
+              <img
+                class="image_116"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPngde9fecaf88b289a9eec2f2beb331debb37fd39eff2e0d8d91549db7274ac7e87.png"
+              />
+            </div>
+            <img
+              class="image_117"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng5fd770d51b67910eedbb2a6e1cc72c6fd8246e36883a54d8c4e015fd924f35f4.png"
+            />
+          </div>
+          <div class="group_22 flex-col">
+            <img
+              class="image_118"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng12b6faed828cb10dd3f7acd2efd8d7ef9deb14bf6c7051cd584bd1a11fc1e572.png"
+            />
+            <div class="image-wrapper_23 flex-col align-center">
+              <img
+                class="image_119"
+                referrerpolicy="no-referrer"
+                src="./assets/img/SketchPngd69bde430c58ce0960fee0f8061af163e640b623efbe6920335009542460a26f.png"
+              />
+            </div>
+            <img
+              class="image_120"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngc479495f7a824c0473125d273779ecdf487d7ab0d0c44883d57fe47b77d8a640.png"
+            />
+            <img
+              class="thumbnail_21"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng51bdbd4333c720ddc136c0bb2073c51950f0f01961195e9b6f93b954a382363f.png"
+            />
+            <img
+              class="thumbnail_22"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPng7dc33808ecefc1ef8bba1d3a16f8755176c5575333b1cb90f5961e0c353e48ea.png"
+            />
+            <img
+              class="thumbnail_23"
+              referrerpolicy="no-referrer"
+              src="./assets/img/SketchPngbcbefa17459dcc858b7fe5edf7aba5d96b75a96fa513f357067e4e9f70f2380f.png"
+            />
+          </div>
+          <img
+            class="image_121"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPng9d08870a333c906318b9e9783d69ee51cb7619eedc2b8149f844ca6e83882c7b.png"
+          />
+          <img
+            class="image_122"
+            referrerpolicy="no-referrer"
+            src="./assets/img/SketchPnga86ff0fd14f347db7a49aedef2db31c0e7771307f85a95afc92d11746aae063d.png"
+          />
+          <div class="text-wrapper_13 flex-col"><span class="text_66">定位导航</span></div>
+          <div class="text-wrapper_14 flex-col"><span class="text_67">光纤平台</span></div>
+          <div class="text-wrapper_15 flex-col"><span class="text_68">空间建模</span></div>
+          <div class="text-wrapper_16 flex-col"><span class="text_69">无人车控制</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+<script>
+export default {
+  data() {
+    return {
+      constants: {}
+    };
+  },
+  methods: {}
+};
+</script>
+<style scoped lang="css" src="./assets/index.css" />
